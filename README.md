@@ -20,4 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker,blender)](https://skillicons.dev)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MxPy)  
+<p align="center">
+   <img src="https://streak-stats.demolab.com/?user=MxPy" />  
+</p>
