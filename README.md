@@ -9,7 +9,7 @@
 
 <h2 align="left">I work with</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
