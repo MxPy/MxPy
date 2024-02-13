@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=unity,fastapi,react,postgres,pytorch)](https://skillicons.dev)
 
