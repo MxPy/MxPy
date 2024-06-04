@@ -19,10 +19,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker,blender)](https://skillicons.dev)
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/mxpy/count.svg" />
-
 ### Github Stats
-<p align="center">
-   <img src="https://streak-stats.demolab.com/?user=MxPy" />  
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxpy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
