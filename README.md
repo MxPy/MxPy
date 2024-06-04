@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker,blender)](https://skillicons.dev)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/mxpy/count.svg" />
 
 ### Github Stats
 <p align="center">
