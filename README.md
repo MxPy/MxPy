@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align="left">I work with</h2>
+### I work with
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs)](https://skillicons.dev)
 
@@ -15,11 +15,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,fastapi,react,postgres,pytorch)](https://skillicons.dev)
 
-<h2 align="left">I use</h2>
+### I use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker,blender)](https://skillicons.dev)
 
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 
+### Github Stats
 <p align="center">
    <img src="https://streak-stats.demolab.com/?user=MxPy" />  
 </p>
