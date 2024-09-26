@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, My name is Max</h1>
-<h3 align="center">I am an ICT student and Programming geek</h3>
+<h3 align="center">I am a Full Stack Engineer and an ICT student</h3>
 
 
 <p align="center">
@@ -9,15 +9,19 @@
 
 ### I work with
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,antd)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,fastapi,react,postgres,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mongo,postgres)](https://skillicons.dev)
+
+### I am intrestesd in
+
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,pytorch)](https://skillicons.dev)
 
 ### I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker)](https://skillicons.dev)
 
 ### Github Stats
 <p align="center">
