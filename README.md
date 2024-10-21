@@ -15,10 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,mongo,postgres)](https://skillicons.dev)
 
-### I am intrestesd in
-
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,pytorch)](https://skillicons.dev)
-
 ### I use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,docker)](https://skillicons.dev)
