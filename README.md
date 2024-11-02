@@ -2,11 +2,11 @@
 
 🚀 **Full Stack Engineer** | 🎓 **ICT Student**
 
-I'm passionate about tech since childhood, love making soft and games just for fun. Open software enjoyer. Here's a bit more about my work and the tools I enjoy using:
+I'm passionate about tech since childhood, love making soft and games just for fun, and also i'm a open software enjoyer. 
 
 ---
 
-### 🛠️ Technologies I Work With
+### Here's a bit more about my work and the tools I enjoy using:
 
 **Backend & API Development**
 
