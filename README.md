@@ -13,6 +13,7 @@ I'm passionate about tech since childhood, love making soft and games just for f
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 **Frontend & UI Frameworks**
 
