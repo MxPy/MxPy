@@ -14,6 +14,7 @@ I'm passionate about tech since childhood, love making soft and games just for f
 [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 **Frontend & UI Frameworks**
 
@@ -21,12 +22,6 @@ I'm passionate about tech since childhood, love making soft and games just for f
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Ant Design](https://skillicons.dev/icons?i=antd)](https://skillicons.dev)
-
-**Cloud & Databases**
-
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ---
 
