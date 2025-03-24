@@ -11,7 +11,9 @@ I'm passionate about tech since childhood, love making soft and games just for f
 **Backend & API Development**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
@@ -21,6 +23,7 @@ I'm passionate about tech since childhood, love making soft and games just for f
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Ant Design](https://skillicons.dev/icons?i=antd)](https://skillicons.dev)
 
 ---
