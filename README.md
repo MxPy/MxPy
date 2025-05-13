@@ -26,7 +26,6 @@
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![K8s](https://skillicons.dev/icons?i=k8s)](https://skillicons.dev)
