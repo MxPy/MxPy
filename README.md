@@ -1,22 +1,17 @@
-# Hi there 👋 I'm Max!
+# Hi I'm Max
 
-🚀 **Full Stack Engineer** | 🎓 **ICT Student**
-
-I'm passionate about tech since childhood, love making soft and games just for fun, and also i'm a open software enjoyer. 
+**Former Software Engineer in transition to Devops**| **Aspiring Platform Engineer** | **ICT Student**
 
 ---
 
-### Here's a bit more about my work and the tools I enjoy using:
+### My stack:
 
 **Backend & API Development**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 
 **Frontend & UI Frameworks**
 
@@ -26,12 +21,17 @@ I'm passionate about tech since childhood, love making soft and games just for f
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Ant Design](https://skillicons.dev/icons?i=antd)](https://skillicons.dev)
 
----
+**DevOps**
 
-### 🔧 Tools I Use Daily
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![K8s](https://skillicons.dev/icons?i=k8s)](https://skillicons.dev)
 
+---
 
 
 ### Github Stats
