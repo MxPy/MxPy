@@ -1,6 +1,6 @@
 # Hi I'm Max
 
-**Former Software Engineer in transition to Devops**| **Aspiring Platform Engineer** | **ICT Student**
+**Former Software Engineer Transitioning Now DevOps** | **Aspiring Platform Engineer** | **ICT Student**
 
 ---
 
